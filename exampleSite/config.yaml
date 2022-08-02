@@ -1,9 +1,9 @@
 # exampleSite/config.yaml
-baseURL: https://smigle-hugo-theme.netlify.app/ # Replace with your domain
-languageCode: en-us
+baseURL: https://blog.kierangroo.me/ # Replace with your domain
+languageCode: en-gb
 theme: smigle
 themesDir: ../.. # Only needed for running the example site
-title: Blog Title
+title: blog.kierangroo.me
 menu:
   main:
     - identifier: home
@@ -18,14 +18,6 @@ menu:
       name: Posts
       url: /posts/
       weight: 3
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 4
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 5
 params:
   abbrDateFmt: "Jan 2"
   author: "Blog Author"
@@ -35,13 +27,13 @@ params:
 #    - "css/custom.css"
   social:
     - name: GitHub
-      url: https://github.com/ian-s-mcb
-    - name: GitLab
-      url: https://gitlab.com/ian-s-mcb
+      url: https://github.com/kierangroome
+    - name: Twitter
+      url: https://twitter.com/kierangroome
     - name: Quizlet
       url: https://quizlet.com/ian-s-mcb
     - name: Reddit
       url: https://www.reddit.com/user/ian-s-mcb
     - name: StackOverflow
       url: https://stackoverflow.com/users/3417846/ian-s-mcb
-  subtitle: "Description about Blog Author"
+  subtitle: "Macromedia Enthusiast"
