@@ -20,7 +20,7 @@ menu:
       weight: 3
 params:
   abbrDateFmt: "Jan 2"
-  author: "Blog Author"
+  author: "@kierangroome"
   brandIconFile: "images/brandIcon.svg"
   dateFmt: "2006-01-02"
 #  customStylesheets: # Use to override theme styles, like logo size
@@ -30,10 +30,4 @@ params:
       url: https://github.com/kierangroome
     - name: Twitter
       url: https://twitter.com/kierangroome
-    - name: Quizlet
-      url: https://quizlet.com/ian-s-mcb
-    - name: Reddit
-      url: https://www.reddit.com/user/ian-s-mcb
-    - name: StackOverflow
-      url: https://stackoverflow.com/users/3417846/ian-s-mcb
   subtitle: "Macromedia Enthusiast"
